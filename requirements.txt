@@ -1,0 +1,6 @@
+transformers
+torch
+numpy
+gradio
+fastapi
+uvicorn
